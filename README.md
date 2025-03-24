@@ -3,6 +3,29 @@
     Dusannier Léothen
     Fontaine Aurélien
 
+#Prérequis
+
+-Python 3.9+
+
+-Bibliothèques Python :
+
+    -PyQt6
+    -matplotlib
+    -astropy
+    -astroquery
+    -scipy
+
+-Installation des dépendances nécessaires :
+
+    -Windows :
+
+    pip install -r requirements.txt
+
+-Linux :
+
+    pip3 install -r requirements.txt
+
+
 
 # Lancer l'application
 
