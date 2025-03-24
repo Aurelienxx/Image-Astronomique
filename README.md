@@ -15,17 +15,6 @@
     - astroquery
     - scipy
 
-- Installation des dépendances nécessaires :
-
-    - Windows :
-
-            pip install -r requirements.txt
-
-    -Linux :
-    
-        pip3 install -r requirements.txt
-
-
 
 # Lancer l'application
 
