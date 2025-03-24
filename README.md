@@ -3,27 +3,27 @@
     Dusannier Léothen
     Fontaine Aurélien
 
-#Prérequis
+# Prérequis
 
--Python 3.9+
+- Python 3.9+
 
--Bibliothèques Python :
+- Bibliothèques Python :
 
-    -PyQt6
-    -matplotlib
-    -astropy
-    -astroquery
-    -scipy
+    - PyQt6
+    - matplotlib
+    - astropy
+    - astroquery
+    - scipy
 
--Installation des dépendances nécessaires :
+- Installation des dépendances nécessaires :
 
-    -Windows :
+    - Windows :
 
-    pip install -r requirements.txt
+            pip install -r requirements.txt
 
--Linux :
-
-    pip3 install -r requirements.txt
+    -Linux :
+    
+        pip3 install -r requirements.txt
 
 
 
